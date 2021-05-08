@@ -1,3 +1,21 @@
+# Project Title:
+
+# Project Aim:
+what are we trying to capture and visualise?
+
+# Project Build:
+what platform and which tools are we going to use?
+
+# Final Output:
+what will our project be ideally at end?
+
+
+
+
+
+
+
+
 # Digital-Visualisation-Project
 useful website link:
 
